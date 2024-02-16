@@ -1,0 +1,14 @@
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.AssemblyInfoInputs.cache
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.AssemblyInfo.cs
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.csproj.CoreCompileInputs.cache
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/bin/Debug/net8.0/MyHedgehogs
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/bin/Debug/net8.0/MyHedgehogs.deps.json
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/bin/Debug/net8.0/MyHedgehogs.runtimeconfig.json
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/bin/Debug/net8.0/MyHedgehogs.dll
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/bin/Debug/net8.0/MyHedgehogs.pdb
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.dll
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/refint/MyHedgehogs.dll
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.pdb
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/MyHedgehogs.genruntimeconfig.cache
+/Users/sanek_182/Desktop/Job_Search_Actions/AdmixerTask/MyHedgehogs/obj/Debug/net8.0/ref/MyHedgehogs.dll
